@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafanaDemo.Web", "GrafanaDemo.Web\GrafanaDemo.Web.csproj", "{EE2259BB-6D38-47E2-8FE5-DA7F51D2513D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2259BB-6D38-47E2-8FE5-DA7F51D2513D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2259BB-6D38-47E2-8FE5-DA7F51D2513D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2259BB-6D38-47E2-8FE5-DA7F51D2513D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2259BB-6D38-47E2-8FE5-DA7F51D2513D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E2A6421-E919-41B1-AA8B-06106A5F93BE}
+	EndGlobalSection
+EndGlobal
